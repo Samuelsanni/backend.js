@@ -4,7 +4,8 @@
     "description": "A mathematical logic app that adds '5' to any number of your choice.",
     "main": "app.js",
     "scripts": {
-      "start": "node app.js"
+      "start": "node app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Devops Maverick",
     "license": "MIT",
@@ -12,6 +13,4 @@
       "readline": "^1.3.0"
     }
   }
-  
-  
   
