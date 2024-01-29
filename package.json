@@ -1,0 +1,17 @@
+{
+    "name": "frontend",
+    "version": "1.0.0",
+    "description": "A mathematical logic app that adds '5' to any number of your choice.",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Devops Maverick",
+    "license": "MIT",
+    "dependencies": {
+      "readline": "^1.3.0"
+    }
+  }
+  
+  
+  
